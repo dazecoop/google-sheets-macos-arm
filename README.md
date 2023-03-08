@@ -1,5 +1,7 @@
 # Google Sheets application for MacOS Arm/M1 machines
 
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/4234732/223718098-724cdcf2-fc53-4717-87b0-fe24cb461172.png">
+
 This is a step-by-step that seemed to work for me (dated March 2023).
 
 ## Install steps
